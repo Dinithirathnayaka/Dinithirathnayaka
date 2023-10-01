@@ -10,10 +10,9 @@
         alt="dinithirathnayaka"
       />
     </p>
-     - 🌱 I’m currently learning **Next.js** - 👨‍💻 All of my projects are
-    available at
-    [https://portfolio-dinithi.web.app/](https://portfolio-dinithi.web.app/) -
-    📫 How to reach me **dinithinayanamali98@gmail.com**
+     - 🌱 I’m currently learning Next.js
+     - 👨‍💻 All of my projects are available at https://portfolio-dinithi.web.app/](https://portfolio-dinithi.web.app/ -
+     - 📫 How to reach me dinithinayanamali98@gmail.com
      <h3 align="left">Connect with me:</h3>
     <p align="left">
       <a
