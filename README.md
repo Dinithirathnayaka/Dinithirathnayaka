@@ -16,7 +16,7 @@
      <h3 align="left">Connect with me:</h3>
     <p align="left">
       <a
-        href="https://linkedin.com/in/https://www.linkedin.com/in/dinithi-rathnayake-887126202/"
+        href="[https://linkedin.com/in/https://www.linkedin.com/in/dinithi-rathnayake-887126202/](https://www.linkedin.com/in/dinithi-rathnayake-887126202/)"
         target="blank"
         ><img
           align="center"
