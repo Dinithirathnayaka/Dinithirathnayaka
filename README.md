@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinithi Rathnayake</h1>
-<h3 align="center">I am an undergraduate in Bsc. Hons in Computing and Information Systems degree program in Faculty of Computing at Sabaragamuwa University of Sri Lanka.</h3>
+<h4 align="center">I am an undergraduate in Bsc. Hons in Computing and Information Systems degree program in Faculty of Computing at Sabaragamuwa University of Sri Lanka.</h4>
 <img src="https://miro.medium.com/v2/resize:fit:679/1*qdAW1TjCN57h1lbuuzvchg.gif" width="300" align="right" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinithirathnayaka&label=Profile%20views&color=0e75b6&style=flat" alt="dinithirathnayaka" /> </p>
@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinithirathnayaka&show_icons=true&locale=en" alt="dinithirathnayaka" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinithirathnayaka&" alt="dinithirathnayaka" /></p>
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinithirathnayaka&" alt="dinithirathnayaka" /></p>
